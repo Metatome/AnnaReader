@@ -94,4 +94,4 @@ A: While Anna's Archive is massive, it doesn't contain every book ever written. 
 A: Currently supports PDF, EPUB, MOBI, AZW3, TXT, MD. MOBI and AZW3 are automatically converted to EPUB for the best reading experience.
 
 **Q: Is this software free?**
-A: Yes, AnnaReader is forever free and open source.
+A: Yes, AnnaReader is  free .

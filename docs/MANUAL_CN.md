@@ -94,4 +94,4 @@ A: Anna's Archive 的收录虽然丰富但并非全能。此外，请检查您�
 A: 目前支持 PDF, EPUB, MOBI, AZW3, TXT, MD。MOBI 和 AZW3 会在打开时自动转换为 EPUB 以获得最佳阅读体验。
 
 **Q: 软件是免费的吗？**
-A: 是的，AnnaReader 永久免费且开源。
+A: 是的，AnnaReader 免费使用。

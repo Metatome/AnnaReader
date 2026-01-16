@@ -50,7 +50,7 @@ We understand the importance of privacy, which is why AnnaReader is built on a *
 
 ## 📥 Download
 
-Please visit the [Releases](https://github.com/YourUsername/AnnaReader/releases) page of this repository to download the latest version for your system.
+Please visit the [Releases](https://github.com/Metatome/AnnaReader/releases) page of this repository to download the latest version for your system.
 
 ## 📖 User Manual
 

@@ -50,7 +50,7 @@ AnnaReader 支持市面上绝大多数主流电子书格式，让您无需为格
 
 ## 📥 下载安装
 
-请前往本仓库的 [Releases](https://github.com/YourUsername/AnnaReader/releases) 页面下载适合您系统的最新版本。
+请前往本仓库的 [Releases](https://github.com/Metatome/AnnaReader/releases) 页面下载适合您系统的最新版本。
 
 ## 📖 用户手册
 
@@ -60,7 +60,7 @@ AnnaReader 支持市面上绝大多数主流电子书格式，让您无需为格
 
 ## 🤝 参与贡献
 
-AnnaReader 是一个开源项目，欢迎大家提交 Issue 或 Pull Request，共同完善这个属于读书人的工具。
+AnnaReader 是一个开源项目，欢迎大家提交 Issue 和意见，共同完善这个属于读书人的工具。
 
 ---
 *愿 AnnaReader 能成为您探索知识海洋的得力助手。*
